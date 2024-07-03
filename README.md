@@ -16,8 +16,7 @@ This project demonstrates a Retrieval-Augmented Generation (RAG) application usi
 - [Running the Project](#running-the-project)
 - [Usage](#usage)
 - [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Installation
 
