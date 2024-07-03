@@ -67,7 +67,7 @@ The project is structured into three main modules:
     - Integrates with OpenAI's GPT-3.5-turbo model.
     - Uses the context from the knowledge graph to generate context-aware responses.
 
-3. **Streamlit Application (`app.py`)**:
+3. **Streamlit Application (`main.py`)**:
     - Provides a user interface for interacting with the knowledge graph and the LLM.
     - Takes user queries and displays the generated responses.
 
